@@ -13,8 +13,8 @@ resources:
 - falcoctl-configmap.yaml
 images:
 - name: docker.io/falcosecurity/falco-no-driver
-  newName: REPLACE_ME_WITH_YOUR_ACRNAME.azurecr.io/live/falcosecurity/falco-no-driver
+  newName: acraksutt6zp2rqfe7w.azurecr.io/live/falcosecurity/falco-no-driver
 - name: docker.io/falcosecurity/falco-driver-loader
-  newName: REPLACE_ME_WITH_YOUR_ACRNAME.azurecr.io/live/falcosecurity/falco-driver-loader
+  newName: acraksutt6zp2rqfe7w.azurecr.io/live/falcosecurity/falco-driver-loader
 - name: docker.io/falcosecurity/falcoctl
-  newName: REPLACE_ME_WITH_YOUR_ACRNAME.azurecr.io/live/falcosecurity/falcoctl
+  newName: acraksutt6zp2rqfe7w.azurecr.io/live/falcosecurity/falcoctl
